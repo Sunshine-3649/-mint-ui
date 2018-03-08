@@ -101,3 +101,5 @@ Please make sure to read the [Contributing Guide](https://github.com/ElemeFE/min
 
 ## License
 MIT
+
+#### 测试git是否可用
